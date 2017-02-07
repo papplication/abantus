@@ -1694,6 +1694,14 @@ main.main {
    Download Styles
 =======================================================*/
 
+.facebook-box {
+    border: none;
+    overflow: hidden;
+    display: block;
+    margin:0 auto;
+    padding-left: 28%;
+}
+
 .download {
     background-image: url('../../img/bg-04.jpg');
 }
