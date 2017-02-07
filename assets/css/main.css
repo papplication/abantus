@@ -2067,10 +2067,6 @@ main.main {
    News-Letter Styles
 =======================================================*/
 
-.news-letter {
-    background-image: url('../../img/bg-05.jpg');
-}
-
 .news-letter .section-space {
     padding-bottom: 111px;
 }
