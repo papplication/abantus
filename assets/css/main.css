@@ -423,11 +423,15 @@ main.main {
 
 .parallux-bg {
     background-attachment: fixed;
-    background-size: cover !important;
+    background-repeat: no-repeat;
+    min-height: 100%;
     -webkit-background-size: cover !important;
     -moz-background-size: cover !important;
     -o-background-size: cover !important;
-    background-repeat: no-repeat;
+    background-size: cover !important;
+    @media (max-width: @iphone-screen) {
+        background-attachment: scroll;
+    }
 }
 
 .section-bg-01 {
