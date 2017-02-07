@@ -424,6 +424,9 @@ main.main {
 .parallux-bg {
     background-attachment: fixed;
     background-size: cover !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
     background-repeat: no-repeat;
 }
 
