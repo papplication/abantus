@@ -1699,7 +1699,9 @@ main.main {
     overflow: hidden;
     display: block;
     margin:0 auto;
-    padding-left: 28%;
+    align-items: center;
+    max-width: 150px;
+    max-height: 30px;
 }
 
 .download {
