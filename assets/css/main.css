@@ -422,7 +422,6 @@ main.main {
 }
 
 .parallux-bg {
-    /*background-attachment: fixed;*/
     max-width: 100%;
     height: auto;
     -webkit-background-size: cover;
