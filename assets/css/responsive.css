@@ -108,7 +108,8 @@
 	    padding-top: 105px;
 	}
 
-	.feature-lists-style-three .feature-list {
+	.feature-lists-style-three,
+	.feature-list {
 		padding: padding: 45px 20px 45px;
 	}
 
